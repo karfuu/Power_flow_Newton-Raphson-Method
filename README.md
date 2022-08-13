@@ -1,7 +1,7 @@
 # A Comparison of intraday solar power forecasting methods
 
 by
-Sitthiwut T.,
+Sitthiwut T.
 
 
 This paper has been submitted for presentation in *2102499: Electrical Engineering Project*.
