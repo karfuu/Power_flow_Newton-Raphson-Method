@@ -23,3 +23,9 @@ The `diagonal element` of each node is the *sum of admittances connected to it*.
 ![](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20%5Cbg_white%20%5Cfn_jvn%20Y_%7Bii%7D%3D%5Csum_%7Bj%3D0%7D%5E%7Bn%7Dy_%7Bij%7D%20%5Ccdots%20j%5Cneq%20i)
 
 ![](figures/diagonal.PNG)
+
+The `off-diagonal element` is equal to the *negative of the admittance between the nodes*. It is known as the mutual admittance or transfer admittance,
+
+![](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20%5Cbg_white%20%5Cfn_jvn%20Y_%7Bij%7D%3DY_%7Bji%7D%3D-y_%7Bij%7D)
+
+![](figures/off_diagonal.PNG)
