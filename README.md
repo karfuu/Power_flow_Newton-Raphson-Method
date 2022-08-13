@@ -16,4 +16,10 @@ _ _ _ _
 ###### figure above show Apllying KCL to the indendent nodes 1 through 4 results.
 
 ![](figures/node_equation.PNG)
-##### Extending the above relation to an *`n bus system`*, the node-voltage equation in matrix is ![](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20%5Cbg_white%20%5Cfn_jvn%20I_%7Bbus%7D%3DY_%7Bbus%7D%5Ccdot%20V_%7Bbus%7D)
+###### Extending the above relation to an *`n bus system`*, the node-voltage equation in matrix is ![](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20%5Cbg_white%20%5Cfn_jvn%20I_%7Bbus%7D%3DY_%7Bbus%7D%5Ccdot%20V_%7Bbus%7D)
+
+The `diagonal element` of each node is the *sum of admittances connected to it*. It is known as the `self-admittance` or driving point admittance,
+
+![](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20%5Cbg_white%20%5Cfn_jvn%20Y_%7Bii%7D%3D%5Csum_%7Bj%3D0%7D%5E%7Bn%7Dy_%7Bij%7D%20%5Ccdots%20j%5Cneq%20i)
+
+![](figures/diagonal.PNG)
