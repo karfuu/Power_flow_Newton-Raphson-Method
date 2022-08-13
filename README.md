@@ -9,6 +9,7 @@ Network equations can be formulated systematically in a variety of forms. Howeve
 ![](figures/diagram_10bus.png).
 ***
 ### `BUS ADMITTANCE MATRIX`
+> In order to obtain the node-voltage equations, consider the simple power system shown in Figure below. where impedances are expressed in per unit on a common *MVA base* and   for simplicity resistances are neglected. Since the nodal solution is based upon `Kirchhoff's current law`, *impedances are converted to admittance*, i.e.
 
 
 
