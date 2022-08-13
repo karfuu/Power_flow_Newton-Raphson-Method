@@ -28,4 +28,27 @@ The `off-diagonal element` is equal to the *negative of the admittance between t
 
 ![](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20%5Cbg_white%20%5Cfn_jvn%20Y_%7Bij%7D%3DY_%7Bji%7D%3D-y_%7Bij%7D)
 
-![](figures/off_diagonal.PNG)
+![](figures/off_diagonal.PNG) 
+![](figures/admittance3bus.PNG)
+###### The bus admittance matrix for the network *3 bus* in above Figure obtained by inspection.
+
+![](figures/admittance10bus.PNG)
+###### figure above show bus admittance matrix for the network *10 bus*.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
