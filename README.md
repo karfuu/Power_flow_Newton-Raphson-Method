@@ -8,7 +8,7 @@ This paper has been submitted for presentation in *2102499: Electrical Engineeri
 
 > This study is divided into two parts: to study the relevant variables of intraday solar irradiance foresting (clear sky model), and to compare forecasting models including `Linear regression`, `MARS`, `ANN` (baseline model), `SVR`, `Random forest` (proposed model).
 
-![](figures/diagram_10bus.jpg)
+![](figures/diagram_10bus.png)
 
 
 
