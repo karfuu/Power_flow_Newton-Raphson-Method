@@ -16,3 +16,4 @@ _ _ _ _
 ###### figure above show Apllying KCL to the indendent nodes 1 through 4 results.
 
 ![](figures/node_equation.PNG)
+##### Extending the above relation to an *`n bus system`*, the node-voltage equation in matrix is ![](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20%5Cbg_white%20%5Cfn_jvn%20I_%7Bbus%7D%3DY_%7Bbus%7D%5Ccdot%20V_%7Bbus%7D)
